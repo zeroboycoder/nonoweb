@@ -1,0 +1,8 @@
+Link
+<a href="./signin.html">Log in</a>
+
+Image
+<img src="bt.jpg" alt="" />
+
+src = image name
+alt = image description
